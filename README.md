@@ -82,7 +82,7 @@ Built an <strong>IoT system</strong> with ESP32 & sensors to monitor energy usag
 ## 🎉 Activities & Hobbies  
 - 🏆 *2023:* International Students Society — Cultural Night Booth Design Award *(2nd Place)*  
 - 🏇 *2022 – Present:* Horse Riding   
-- 🧠 *Reading
+  
 - 📚 Reading | 🌍 Exploring new experiences | 🔍 Lifelong learning enthusiast  
 
 ---
