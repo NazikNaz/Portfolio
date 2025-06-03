@@ -42,15 +42,13 @@ To become an <strong>Electrical and Electronics Engineer</strong> and a <strong>
 
 
 
-## 🎓 Education  
-
-<img src="assets/img/uniten logo.png" alt="Uniten Logo" width="120" />
-
-
- ---
-**Bachelor of Electrical and Electronics Engineering (Hons)**  
+## 🎓 Education 
+<div style="display: flex; align-items: center;">
+  <img src="assets/img/uniten logo.png" alt="Uniten Logo" width="100" style="margin-right: 15px; border-radius: 50%;">
+  <p>**Bachelor of Electrical and Electronics Engineering (Hons)**  
 *Universiti Tenaga Nasional (UNITEN)*  
-📅 *2022 – 2026* 
+📅 *2022 – 2026* </p>
+</div>
 ---
 
 
