@@ -43,9 +43,10 @@ To become an <strong>Electrical and Electronics Engineer</strong> and a <strong>
 
 
 ## 🎓 Education  
-<div>
+
 <img src="assets/img/uniten logo.png" alt="Uniten Logo" width="120" />
-<div>
+
+
  ---
 **Bachelor of Electrical and Electronics Engineering (Hons)**  
 *Universiti Tenaga Nasional (UNITEN)*  
