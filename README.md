@@ -1,10 +1,10 @@
-make this justified html with markdown:
+
 
 # 🚀 Nazik Ali Abdelrahman Ali  
 *Final Year Electrical and Electronics Engineering Student*  
 🌟 Aspiring Engineer | Problem-Solver | Future AI-Driven Innovator  
 
----
+
 
 <br>
 
@@ -14,7 +14,7 @@ make this justified html with markdown:
 - **LinkedIn:** [Nazik Ali LinkedIn](#)
    
 <br>
----
+
 ## 🎯 Career Objective  
 
 <div align="justify">
@@ -25,7 +25,7 @@ I aspire to become a dynamic <strong>Electrical and Electronics Engineer</strong
 </div>
 
 <br>
----
+
 
 ## 💡 Career Ambition  
 
@@ -36,7 +36,7 @@ To become an <strong>Electrical and Electronics Engineer</strong> and a <strong>
 </div>
 
 <br>
----
+
 
 ## 🎓 Education  
 **Bachelor of Electrical and Electronics Engineering (Hons)**  
@@ -44,11 +44,11 @@ To become an <strong>Electrical and Electronics Engineer</strong> and a <strong>
 📅 *2022 – 2026*
 
 <br>
-**Core Subjects:**  
-Programming for Engineers · Emerging Technologies · Circuit Analysis I & II · Electronics Analysis & Design I & II · Signals & Systems · Microprocessor Systems · Digital Signal Processing · Data Analytics for Engineers · AI and Neural-Fuzzy Systems  
-... and many more powering my journey toward excellence.
+**Core Subjects:** 
+<div align= 'justify'>
+Programming for Engineers · Emerging Technologies · Circuit Analysis I & II · Electronics Analysis & Design I & II · Signals & Systems · Microprocessor Systems · Digital Signal Processing · Data Analytics for Engineers · AI and Neural-Fuzzy Systems, and many more powering my journey toward excellence.
 
----
+</div>
 <br>
 
 ## 🧠 Technical Skills  
@@ -61,12 +61,12 @@ Programming for Engineers · Emerging Technologies · Circuit Analysis I & II ·
 - Research & Critical Thinking  
 - IBM Project Management Certified  
 
----
+
 <br>
 ## 🛠️ Tools & Software  
 MATLAB · MPLAB · Proteus · LTspice · eNSP · Google Colab · Jupyter Notebook 
 
----
+
 <br>
 ## 👩‍💻 Projects  
 
@@ -78,12 +78,11 @@ Built an <strong>IoT system</strong> with ESP32 & sensors to monitor energy usag
 
 </div>
 <br>
----
+
 
 ## 🤝 Professional Memberships  
 - IEEE Student Member  
 
----
 
 ## 🎉 Activities & Hobbies  
 - 🏆 *2023:* International Students Society — Cultural Night Booth Design Award *(2nd Place)*  
@@ -92,6 +91,6 @@ Built an <strong>IoT system</strong> with ESP32 & sensors to monitor energy usag
 - 📚 Reading | 🌍 Exploring new experiences | 🔍 Lifelong learning enthusiast  
 
 <br>
----
+
 
 > 💬 *"With curiosity as my compass and determination as my engine, I ride forward into a future built by circuits, code, and character."*
