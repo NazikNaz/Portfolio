@@ -1,18 +1,15 @@
 
 #### *Final Year Electrical and Electronics Engineering Student*  
-🌟 Aspiring Engineer | Problem-Solver | Future AI-Driven Innovator  
----
-
 <br>
 
 ## 📬 Contact Me  
 - **Email:** [nazzookah@gmail.com](mailto:nazzookah@gmail.com)  
 - **Phone:** +60178217987  
 - **LinkedIn:** [Nazik Ali LinkedIn](#)
-  
+  <br>
   ---
   
-<br>
+
 
 ## 🎯 Career Objective  
 
@@ -20,11 +17,11 @@
 
 Driven, focused, and passionate about technology!  
 I aspire to become a dynamic <strong>Electrical and Electronics Engineer</strong>, blending <strong>project management</strong>, <strong>intelligent computing</strong>, and <strong>artificial intelligence</strong> to create impactful solutions. My ambition is to contribute meaningfully to engineering innovation and data-driven decision-making.
-
+<br>
 </div>
 ---
 
-<br>
+
 
 
 ## 💡 Career Ambition  
@@ -33,26 +30,29 @@ I aspire to become a dynamic <strong>Electrical and Electronics Engineer</strong
 
 To become an <strong>Electrical and Electronics Engineer</strong> and a <strong>Project Manager</strong> with outstanding <strong>AI</strong> capabilities. I aim to lead with intelligence, inspire with innovation, and deliver with precision.
 </div>
+<br>
 ---
 
-<br>
+
 
 
 ## 🎓 Education  
 **Bachelor of Electrical and Electronics Engineering (Hons)**  
 *Universiti Tenaga Nasional (UNITEN)*  
 📅 *2022 – 2026*
+<br>
 ---
 
-<br>
+
 
 **Core Subjects:** 
 <div align= 'justify'>
 Programming for Engineers · Emerging Technologies · Circuit Analysis I & II · Electronics Analysis & Design I & II · Signals & Systems · Microprocessor Systems · Digital Signal Processing · Data Analytics for Engineers · AI and Neural-Fuzzy Systems, and many more powering my journey toward excellence.
 </div>
+<br>
 ---
 
-<br>
+
 
 ## 🧠 Technical Skills  
 - Electrical & Electronics Engineering  
@@ -62,16 +62,18 @@ Programming for Engineers · Emerging Technologies · Circuit Analysis I & II ·
 - Programming in **C** and **Python**  
 - Technical Communication & Writing  
 - Research & Critical Thinking  
-- IBM Project Management Certified  
+- IBM Project Management Certified
+  <br>
 ---
 
-<br>
+
 
 ## 🛠️ Tools & Software  
 MATLAB · MPLAB · Proteus · LTspice · eNSP · Google Colab · Jupyter Notebook 
+<br>
 ---
 
-<br>
+
 ## 👩‍💻 Projects  
 
 ### 🔌 Final Year Project: IoT-Based Power Measurement and Monitoring System  
@@ -81,15 +83,18 @@ MATLAB · MPLAB · Proteus · LTspice · eNSP · Google Colab · Jupyter Noteboo
 Built an <strong>IoT system</strong> with ESP32 & sensors to monitor energy usage in real time. Developed a smart dashboard/mobile app for live consumption tracking, abnormal usage alerts, and remote control. Promoting sustainability and smart living through technology!
 
 </div>
+<br>
 ---
 
-<br>
+
 
 
 ## 🤝 Professional Memberships  
-- IEEE Student Member  
+- IEEE Student Member
+  
+  <br>  
 ---
-<br>
+
 
 ## 🎉 Activities & Hobbies  
 - 🏆 *2023:* International Students Society — Cultural Night Booth Design Award *(2nd Place)*  
@@ -97,11 +102,12 @@ Built an <strong>IoT system</strong> with ESP32 & sensors to monitor energy usag
  ---  
   
 - 📚 Reading | 🌍 Exploring new experiences | 🔍 Lifelong learning enthusiast  
----
+
 
 <br>
-
+---
 
 > 💬 *"With curiosity as my compass and determination as my engine, I ride forward into a future built by circuits, code, and character."*
 
 <br>
+---
