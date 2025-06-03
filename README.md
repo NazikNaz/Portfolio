@@ -6,13 +6,15 @@ make this justified html with markdown:
 
 ---
 
+<br>
+
 ## 📬 Contact Me  
 - **Email:** [nazzookah@gmail.com](mailto:nazzookah@gmail.com)  
 - **Phone:** +60178217987  
-- **LinkedIn:** [Nazik Ali LinkedIn](#)  
-
+- **LinkedIn:** [Nazik Ali LinkedIn](#)
+   
+<br>
 ---
-
 ## 🎯 Career Objective  
 
 <div align="justify">
@@ -22,6 +24,7 @@ I aspire to become a dynamic <strong>Electrical and Electronics Engineer</strong
 
 </div>
 
+<br>
 ---
 
 ## 💡 Career Ambition  
@@ -32,6 +35,7 @@ To become an <strong>Electrical and Electronics Engineer</strong> and a <strong>
 
 </div>
 
+<br>
 ---
 
 ## 🎓 Education  
@@ -39,11 +43,13 @@ To become an <strong>Electrical and Electronics Engineer</strong> and a <strong>
 *Universiti Tenaga Nasional (UNITEN)*  
 📅 *2022 – 2026*
 
+<br>
 **Core Subjects:**  
 Programming for Engineers · Emerging Technologies · Circuit Analysis I & II · Electronics Analysis & Design I & II · Signals & Systems · Microprocessor Systems · Digital Signal Processing · Data Analytics for Engineers · AI and Neural-Fuzzy Systems  
 ... and many more powering my journey toward excellence.
 
 ---
+<br>
 
 ## 🧠 Technical Skills  
 - Electrical & Electronics Engineering  
@@ -56,12 +62,12 @@ Programming for Engineers · Emerging Technologies · Circuit Analysis I & II ·
 - IBM Project Management Certified  
 
 ---
-
+<br>
 ## 🛠️ Tools & Software  
 MATLAB · MPLAB · Proteus · LTspice · eNSP · Google Colab · Jupyter Notebook 
 
 ---
-
+<br>
 ## 👩‍💻 Projects  
 
 ### 🔌 Final Year Project: IoT-Based Power Measurement and Monitoring System  
@@ -71,7 +77,7 @@ MATLAB · MPLAB · Proteus · LTspice · eNSP · Google Colab · Jupyter Noteboo
 Built an <strong>IoT system</strong> with ESP32 & sensors to monitor energy usage in real time. Developed a smart dashboard/mobile app for live consumption tracking, abnormal usage alerts, and remote control. Promoting sustainability and smart living through technology!
 
 </div>
-
+<br>
 ---
 
 ## 🤝 Professional Memberships  
@@ -85,6 +91,7 @@ Built an <strong>IoT system</strong> with ESP32 & sensors to monitor energy usag
   
 - 📚 Reading | 🌍 Exploring new experiences | 🔍 Lifelong learning enthusiast  
 
+<br>
 ---
 
 > 💬 *"With curiosity as my compass and determination as my engine, I ride forward into a future built by circuits, code, and character."*
